@@ -97,7 +97,7 @@ async def get_inline_torrents(query):
                             disable_web_page_preview=True
                         ),
                         reply_markup=keyboard,
-                        thumb_url="https://telegra.ph/file/ea46b9708660e11a62513.jpg"
+                        thumb_url="https://telegra.ph/file/4d606386e156267c43720.jpg"
                     )
                 )
     return result
